@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css?family=New+Rocker&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Titan+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Stalinist+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Butcherman&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Risque&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Jomhuria&display=swap");
+
+#dc {
+  background: url("https://upload.wikimedia.org/wikipedia/en/thumb/6/63/DC_Versus_Marvel_1.jpg/250px-DC_Versus_Marvel_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.3),
+    rgba(255, 255, 255, 0.3)
+  );
+}
+#laugh {
+  display: flex;
+}
+.knight {
+  display: flex;
+  align-items: center;
+}
+#dhfh {
+  display: flex;
+  align-items: center;
+}
+.annual {
+  display: flex;
+  align-items: center;
+}
+#thanos {
+  display: flex;
+  align-items: center;
+}
+#miles {
+  display: flex;
+  align-items: center;
+}
+.miles > p > span {
+  font-family: "New Rocker", cursive;
+  color: red;
+  font-size: 35px;
+}
+.thanos > p > span {
+  font-family: "Titan One", cursive;
+  color: rgb(58, 204, 70);
+  font-size: 42px;
+}
+#wolverine > p > span {
+  font-family: "Stalinist One", cursive;
+  font-size: 38px;
+}
+#batman > p > span {
+  font-family: "Butcherman", cursive;
+  color: rgba(128, 0, 0, 0.9);
+  font-size: 40px;
+}
+#knight > p > span {
+  font-family: "Risque", cursive;
+  color: black;
+  font-size: 30px;
+}
+#hfh > p > span {
+  font-family: "Jomhuria", cursive;
+  color: brown;
+  font-size: 32px;
+}
+* {
+  background-color: rgb(228, 224, 208);
+}
+body {
+  margin-left: 450px;
+}
+span > .comics {
+  margin: 100px;
+}
+.ss {
+  position: absolute;
+  top: 370px;
+  left: 35px;
+}
+#ss {
+  position: absolute;
+  top: 375px;
+  right: 40px;
+}
+#pro {
+  position: absolute;
+  top: 870px;
+  left: 50px;
+}
+.proof {
+  position: absolute;
+  top: 870px;
+  right: 50px;
+}
+#proof {
+  position: absolute;
+  top: 1450px;
+  right: 50px;
+}
+.prof {
+  position: absolute;
+  top: 1450px;
+  left: 50px;
+}
+#prof {
+  position: absolute;
+  top: 2100px;
+  left: 50px;
+}
+.pre {
+  position: absolute;
+  top: 2100px;
+  right: 50px;
+}
+#pre {
+  position: absolute;
+  top: 2750px;
+  right: 45px;
+}
+#wolves {
+  position: absolute;
+  top: 2750px;
+  left: 45px;
+}
+#spidey {
+  position: absolute;
+  top: 3250px;
+  left: 45px;
+}
+.spidey {
+  position: absolute;
+  top: 3250px;
+  right: 50px;
+}
+nav ul {
+  display: flex;
+  width: 400px;
+  position: relative;
+  margin: 10px;
+  padding: 25px;
+  justify-content: space-between;
+  background-color: rgb(192, 192, 192);
+}
+nav > ul > li > a:hover {
+  color: rgb(204, 168, 199);
+  background-color: azure;
+}
+body > #nav {
+  margin-left: 900px;
+}
+footer ul {
+  margin-top: 100p;
+  display: flex;
+  width: 400px;
+  position: ;
+  margin: 10px;
+  padding: 25px;
+  justify-content: space-between;
+  background-color: rgb(192, 192, 192);
+}
